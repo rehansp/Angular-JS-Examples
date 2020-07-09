@@ -1,1 +1,1 @@
-# Angular-JS-Examples
+# Frontend of ecommerce project
